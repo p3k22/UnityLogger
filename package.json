@@ -1,0 +1,11 @@
+{
+    "name": "com.p3k.unityrichconsolelogger",
+    "version": "1.0.0",
+    "displayName": "Unity Rich Console Logger",
+    "description": "",
+    "unity": "2020.1",
+    "documentationUrl": "https://github.com/p3k22/UnityRichConsoleLogger#readme",
+    "author": {
+        "name": "P3k"
+    }
+}
